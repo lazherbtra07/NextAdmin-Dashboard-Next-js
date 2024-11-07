@@ -126,7 +126,7 @@ const ProfileBox = () => {
               <p className="mt-4">
                 In my role as a UI Designer and Web Developer,i working closely
                 with cross-functional teams to translate design concepts into
-                functional code. Whether it's designing user interfaces,
+                functional code. Whether it&apos;s designing user interfaces,
                 implementing frontend components, or optimizing website
                 performance, I am committed to delivering high-quality solutions
                 that exceed expectations and drive business results.
